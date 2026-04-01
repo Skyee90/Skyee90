@@ -54,7 +54,7 @@ A closer look at my activity and contributions on GitHub.
 
 ### 🏆 GitHub Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Skyee90&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=3"/>
+  <img src="[https://github-profile-trophy.vercel.app/?username=Skyee90&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=3](https://github.com/users/Skyee90/achievements/pull-shark)"/>
 </p>
 
 ### 📈 Contribution Activity
