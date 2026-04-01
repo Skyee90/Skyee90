@@ -1,4 +1,4 @@
-# 👨‍💻 Sudeb Bag | Software Engineer
+# 👨‍💻 Sudeb Bag | AI/ML Engineer
 ### 🚀 Building the future, one commit at a time
 
 I'm a passionate developer based in Kollata, West Bengal, India, deeply enthusiastic about solving problems and crafting elegant code. My journey in tech is driven by curiosity and a commitment to creating impactful solutions. I believe every line of code tells a story, and I'm here to write some great ones.
