@@ -111,7 +111,7 @@ I'm always open to discussing new ideas, collaborating on interesting projects, 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com) <!-- TODO: Add your portfolio -->
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com) <!-- TODO: Add your email -->
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iw664818@gmail.com) <!-- TODO: Add your email -->
 
 [![Blog](https://img.shields.io/badge/Blog-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://yourblog.com) <!-- TODO: Add your blog -->
 
