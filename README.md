@@ -105,7 +105,7 @@ I'm always open to discussing new ideas, collaborating on interesting projects, 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_PROFILE) <!-- TODO: Add your LinkedIn -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudeb-bag-69581a375?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)<!-- TODO: Add your LinkedIn -->
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER_HANDLE) <!-- TODO: Add your Twitter -->
 
