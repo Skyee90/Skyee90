@@ -31,7 +31,7 @@ I enjoy solving complex problems, contributing to open source, and continuously 
 
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML,CSS](https://tse1.mm.bing.net/th/id/OIP.Ui5rwaEdFyajX4HL2Xk5XwHaEM?pid=Api&P=0&h=220)
 
 ### ⚙️ Tools & Technologies
 - Backend: FastAPI, Node.js  
