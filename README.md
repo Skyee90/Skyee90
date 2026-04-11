@@ -30,7 +30,7 @@ I enjoy solving complex problems, contributing to open source, and continuously 
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://s.yimg.com/fz/api/res/1.2/yoZFy3XtdpqjQyTFJ4rdiA--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpbGw7aD00MTI7cHhvZmY9NTA7cHlvZmY9MTAwO3E9ODA7c3M9MTt3PTM4OA--/https://i.pinimg.com/736x/64/79/b9/6479b9448caa384c54cdeceb1578b5ae.jpg)
 ![HTML,CSS](https://tse1.mm.bing.net/th/id/OIP.Ui5rwaEdFyajX4HL2Xk5XwHaEM?pid=Api&P=0&h=220)
 
 ### ⚙️ Tools & Technologies
